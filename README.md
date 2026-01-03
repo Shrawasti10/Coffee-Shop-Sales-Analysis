@@ -3,7 +3,7 @@
 - Project Overview
 This project focuses on analyzing coffee shop sales data to uncover key business insights related to revenue performance, customer purchasing behavior, and operational efficiency. The interactive Power BI dashboard is designed to support data-driven decision-making for café management.
 
-🎯 Business Objectives :
+- Business Objectives :
 1.Analyze overall sales and revenue trends
 2.Identify top-performing coffee products
 3.Understand peak sales periods during the day
@@ -45,6 +45,6 @@ Excel (Data Cleaning & Preprocessing)
 📁 Files Included 
 
 Coffee_Shop_Sales_Dashboard.pbix – Power BI dashboard file
-dashboard_screenshot.png – Dashboard preview
-dataset.csv – Sales dataset 
+screenshot coffee dashboard.png – Dashboard preview
+Coffe_sales.xlsx – Sales dataset 
 
